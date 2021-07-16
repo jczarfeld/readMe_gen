@@ -16,6 +16,38 @@ message:"What is your Github username?"
  name : "email",
  message: "What is your e-mail address?"   
 }
+{
+    type: "input",
+    name : "title",
+    message:"What is your project Title?"
+    },
+    {
+     type: "input",
+     name : "description",
+     message: "Please describe your project"   
+    }
+    {
+        type: "input",
+        name : "instructions",
+        message:"Please list specific installation instructions"
+        },
+        {
+         type: "input",
+         name : "information",
+         message: "Please list specific usage information"   
+        }
+        {
+            type: "input",
+            name : "guidelines",
+            message: "How could one contribute to your project?"   
+           }
+           {
+            type: "input",
+            name : "test",
+            message: "Please list specific test instructions"   
+           }
+            
+            
 
 
 ];
