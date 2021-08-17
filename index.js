@@ -35,8 +35,8 @@ const generateHTML = (answers) =>
     </ul>
     <h3>I am still alive! Contact Me!</h3>
     <ul class="list-group">
-      <li class="list-group-item">My GitHub username is ${answers.github}</li>
-      <li class="list-group-item">LinkedIn: ${answers.linkedin}</li>
+      <li class="list-group-item">My GitHub: https://github.com/${answers.github}</li>
+      <li class="list-group-item">LinkedIn: https://www.linkedin.com/in/john-osterfeld/</li>
     </ul>
   </div>
 </div>
